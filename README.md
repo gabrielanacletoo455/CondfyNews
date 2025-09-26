@@ -124,3 +124,39 @@ npm run android
 
 ## 📁 Estrutura do Projeto
 
+```bash
+src/
+├── components/ # Componentes reutilizáveis
+│ ├── Avatar/
+│ ├── CommonButton/
+│ ├── Form/
+│ └── ...
+├── screens/ # Telas da aplicação
+│ ├── home/ # Feed de notícias
+│ ├── login/ # Autenticação
+│ ├── post/ # Visualização de posts
+│ └── ...
+├── contexts/ # Context API
+├── hooks/ # Custom hooks
+├── routes/ # Configuração de navegação
+├── services/ # Chamadas para API
+├── utils/ # Funções utilitárias
+└── types/ # Definições TypeScript
+
+```
+
+## 📞 Contato
+
+**Gabriel** - Desenvolvedor Frontend Junior
+
+- 📧 Email: [gabrielanacleto159@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/gabriel-anacletoo]
+- 🐙 GitHub: [https://github.com/gabrielanacletoo455]
+
+---
+
+## 📄 Licença
+
+Este projeto é para fins de estudo e aprendizado. Sinta-se livre para usar como referência para seus próprios projetos!
+
+---
